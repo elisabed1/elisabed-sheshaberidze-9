@@ -1,4 +1,114 @@
 .container{
-    width: 1096px;
+    width: 1270px;
     margin: 0px auto;
 }
+.geol{
+    margin-top: 24px;
+    display: inline;
+    vertical-align: text-bottom;
+}
+li{
+    display: inline;
+    font-family: 'Open Sans', sans-serif;
+    color: #636060;
+    font-size: 17px;
+    font-weight: 400;
+    margin-left: 50px;
+}
+ul{
+    display: inline;
+    margin-left: 676px
+}
+.s1{
+    margin-top: 18px;
+    margin-bottom: 84px;
+    width: 1440px;
+    height: 606px;
+    background-image: url("../images/Rectangle\ 1.jpg");
+    background-repeat: no-repeat
+}
+h1{
+    color: #FFF;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 79px;
+    font-weight: 700;
+    }
+h2{ 
+    color: #FFF;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 19px;
+    font-weight: 400;
+}
+.div1 {
+    display: flex;
+    align-items: center;
+    border: 2px dotted black;
+} 
+
+
+
+.card{
+    display: inline-block;
+    vertical-align: top;
+    width: 235px;
+    margin-right: 50px;
+}
+h4{
+    color: #636060;
+    font-family: 'Open Sans', sans-serif;
+font-size: 17px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+h5{
+    color: #010101;
+    font-family: 'Open Sans', sans-serif;
+font-size: 28px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+margin-top: 9px;
+}
+.p1{
+    color: #636060;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    margin-top: 37px;
+    }
+ .cards{
+        display: inline-block;
+        vertical-align: top;
+        width: 980px;
+        margin-bottom: 140px;
+    }
+.card1{
+    display: inline-block;
+    flex-wrap: wrap;
+    width: 286px;
+    margin-top: 56px;
+    margin-left: 33px;
+}
+.cimg{
+    width: 286px;
+    height: 195px;
+}
+h3{
+    color: #343232;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 19px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+p{
+    width: 286px;
+    font-family: 'Open Sans', sans-serif;
+    color: #636060;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    }
